@@ -9,3 +9,14 @@ C:\Users\User\Desktop\работы\основы алгоритмизации и 
 C:\Users\User\Desktop\работы\основы алгоритмизации и программирования\algoritms\algoritms\obj\Debug\algoritms.exe
 C:\Users\User\Desktop\работы\основы алгоритмизации и программирования\algoritms\algoritms\obj\Debug\algoritms.pdb
 C:\Users\User\Desktop\работы\основы алгоритмизации и программирования\algoritms\algoritms\obj\Debug\algoritms.exe.config
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\bin\Debug\algoritms.exe.config
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\bin\Debug\algoritms.exe
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\bin\Debug\algoritms.pdb
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\obj\Debug\algoritms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\obj\Debug\algoritms.exe.config
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\obj\Debug\algoritms.Form1.resources
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\obj\Debug\algoritms.Properties.Resources.resources
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\obj\Debug\algoritms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\obj\Debug\algoritms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\obj\Debug\algoritms.exe
+C:\Users\User\Desktop\работы\homework\Тестирование_ТР ПО\Алгоритмы\algoritms\algoritms\obj\Debug\algoritms.pdb
