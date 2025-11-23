@@ -24,13 +24,13 @@ namespace algoritms
         }
         double f(double x)
         {
-            if (radioButton1.Checked)      // tg(y)
-                return Tan(x);
+            if (radioButton1.Checked)      
+                return Cos(x);
 
-            if (radioButton2.Checked)      // y^2
+            if (radioButton2.Checked)     
                 return x * x;
 
-            if (radioButton3.Checked)      // exp(y)
+            if (radioButton3.Checked)      
                 return Exp(x);
 
             return 0;
