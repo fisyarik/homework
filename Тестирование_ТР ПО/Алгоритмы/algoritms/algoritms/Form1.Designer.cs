@@ -30,26 +30,26 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBoxResult = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBoxZ = new System.Windows.Forms.TextBox();
+            this.textBoxY = new System.Windows.Forms.TextBox();
+            this.testBoxX = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.richTextBox1Res2 = new System.Windows.Forms.RichTextBox();
             this.button2 = new System.Windows.Forms.Button();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.radioButton3 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBoxY2 = new System.Windows.Forms.TextBox();
+            this.textBoxX2 = new System.Windows.Forms.TextBox();
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
@@ -73,12 +73,12 @@
             // 
             // tabPage1
             // 
-            this.tabPage1.Controls.Add(this.textBox6);
+            this.tabPage1.Controls.Add(this.textBoxResult);
             this.tabPage1.Controls.Add(this.label7);
             this.tabPage1.Controls.Add(this.button1);
-            this.tabPage1.Controls.Add(this.textBox3);
-            this.tabPage1.Controls.Add(this.textBox2);
-            this.tabPage1.Controls.Add(this.textBox1);
+            this.tabPage1.Controls.Add(this.textBoxZ);
+            this.tabPage1.Controls.Add(this.textBoxY);
+            this.tabPage1.Controls.Add(this.testBoxX);
             this.tabPage1.Controls.Add(this.label3);
             this.tabPage1.Controls.Add(this.label2);
             this.tabPage1.Controls.Add(this.label1);
@@ -91,14 +91,13 @@
             this.tabPage1.Text = "Линейный алгоритм";
             this.tabPage1.UseVisualStyleBackColor = true;
             // 
-            // textBox6
+            // textBoxResult
             // 
-            this.textBox6.Location = new System.Drawing.Point(357, 166);
-            this.textBox6.Multiline = true;
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(183, 47);
-            this.textBox6.TabIndex = 10;
-            this.textBox6.TextChanged += new System.EventHandler(this.textBox6_TextChanged);
+            this.textBoxResult.Location = new System.Drawing.Point(357, 166);
+            this.textBoxResult.Multiline = true;
+            this.textBoxResult.Name = "textBoxResult";
+            this.textBoxResult.Size = new System.Drawing.Size(183, 47);
+            this.textBoxResult.TabIndex = 10;
             // 
             // label7
             // 
@@ -120,27 +119,26 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
-            // textBox3
+            // textBoxZ
             // 
-            this.textBox3.Location = new System.Drawing.Point(238, 264);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 26);
-            this.textBox3.TabIndex = 6;
+            this.textBoxZ.Location = new System.Drawing.Point(238, 264);
+            this.textBoxZ.Name = "textBoxZ";
+            this.textBoxZ.Size = new System.Drawing.Size(100, 26);
+            this.textBoxZ.TabIndex = 6;
             // 
-            // textBox2
+            // textBoxY
             // 
-            this.textBox2.Location = new System.Drawing.Point(238, 232);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 26);
-            this.textBox2.TabIndex = 5;
+            this.textBoxY.Location = new System.Drawing.Point(238, 232);
+            this.textBoxY.Name = "textBoxY";
+            this.textBoxY.Size = new System.Drawing.Size(100, 26);
+            this.textBoxY.TabIndex = 5;
             // 
-            // textBox1
+            // testBoxX
             // 
-            this.textBox1.Location = new System.Drawing.Point(238, 196);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 26);
-            this.textBox1.TabIndex = 4;
-            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+            this.testBoxX.Location = new System.Drawing.Point(238, 196);
+            this.testBoxX.Name = "testBoxX";
+            this.testBoxX.Size = new System.Drawing.Size(100, 26);
+            this.testBoxX.TabIndex = 4;
             // 
             // label3
             // 
@@ -151,7 +149,6 @@
             this.label3.Size = new System.Drawing.Size(211, 25);
             this.label3.TabIndex = 3;
             this.label3.Text = "Введите значение Z :";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
@@ -162,7 +159,6 @@
             this.label2.Size = new System.Drawing.Size(212, 25);
             this.label2.TabIndex = 2;
             this.label2.Text = "Введите значение Y :";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -173,7 +169,6 @@
             this.label1.Size = new System.Drawing.Size(213, 25);
             this.label1.TabIndex = 1;
             this.label1.Text = "Введите значение X :";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // pictureBox1
             // 
@@ -187,12 +182,12 @@
             // 
             // tabPage2
             // 
-            this.tabPage2.Controls.Add(this.richTextBox1);
+            this.tabPage2.Controls.Add(this.richTextBox1Res2);
             this.tabPage2.Controls.Add(this.button2);
             this.tabPage2.Controls.Add(this.checkBox1);
             this.tabPage2.Controls.Add(this.groupBox1);
-            this.tabPage2.Controls.Add(this.textBox5);
-            this.tabPage2.Controls.Add(this.textBox4);
+            this.tabPage2.Controls.Add(this.textBoxY2);
+            this.tabPage2.Controls.Add(this.textBoxX2);
             this.tabPage2.Controls.Add(this.label6);
             this.tabPage2.Controls.Add(this.label5);
             this.tabPage2.Controls.Add(this.pictureBox2);
@@ -204,13 +199,13 @@
             this.tabPage2.Text = "Разветвляющийся алгоритм";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // richTextBox1
+            // richTextBox1Res2
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(318, 154);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(303, 102);
-            this.richTextBox1.TabIndex = 11;
-            this.richTextBox1.Text = "";
+            this.richTextBox1Res2.Location = new System.Drawing.Point(318, 154);
+            this.richTextBox1Res2.Name = "richTextBox1Res2";
+            this.richTextBox1Res2.Size = new System.Drawing.Size(303, 102);
+            this.richTextBox1Res2.TabIndex = 11;
+            this.richTextBox1Res2.Text = "";
             // 
             // button2
             // 
@@ -231,7 +226,6 @@
             this.checkBox1.TabIndex = 9;
             this.checkBox1.Text = "Ответ красным цветом";
             this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // groupBox1
             // 
@@ -266,7 +260,6 @@
             this.radioButton2.TabStop = true;
             this.radioButton2.Text = "x ²";
             this.radioButton2.UseVisualStyleBackColor = true;
-            this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
             // radioButton1
             // 
@@ -279,19 +272,19 @@
             this.radioButton1.Text = "cos(x)";
             this.radioButton1.UseVisualStyleBackColor = true;
             // 
-            // textBox5
+            // textBoxY2
             // 
-            this.textBox5.Location = new System.Drawing.Point(197, 191);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(100, 26);
-            this.textBox5.TabIndex = 6;
+            this.textBoxY2.Location = new System.Drawing.Point(197, 191);
+            this.textBoxY2.Name = "textBoxY2";
+            this.textBoxY2.Size = new System.Drawing.Size(100, 26);
+            this.textBoxY2.TabIndex = 6;
             // 
-            // textBox4
+            // textBoxX2
             // 
-            this.textBox4.Location = new System.Drawing.Point(197, 154);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 26);
-            this.textBox4.TabIndex = 5;
+            this.textBoxX2.Location = new System.Drawing.Point(197, 154);
+            this.textBoxX2.Name = "textBoxX2";
+            this.textBoxX2.Size = new System.Drawing.Size(100, 26);
+            this.textBoxX2.TabIndex = 5;
             // 
             // label6
             // 
@@ -301,7 +294,6 @@
             this.label6.Size = new System.Drawing.Size(174, 20);
             this.label6.TabIndex = 3;
             this.label6.Text = "Введите значение Y :";
-            this.label6.Click += new System.EventHandler(this.label6_Click);
             // 
             // label5
             // 
@@ -353,23 +345,23 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBoxZ;
+        private System.Windows.Forms.TextBox textBoxY;
+        private System.Windows.Forms.TextBox testBoxX;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.TextBox textBox5;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox textBoxY2;
+        private System.Windows.Forms.TextBox textBoxX2;
         private System.Windows.Forms.RadioButton radioButton3;
         private System.Windows.Forms.RadioButton radioButton2;
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.CheckBox checkBox1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.RichTextBox richTextBox1Res2;
         private System.Windows.Forms.Label label7;
-        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.TextBox textBoxResult;
     }
 }
 
