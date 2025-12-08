@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\bin\Release\algoritms.exe.config
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\bin\Release\algoritms.exe
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\bin\Release\algoritms.pdb
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\obj\Release\algoritms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\obj\Release\algoritms.Form1.resources
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\obj\Release\algoritms.Properties.Resources.resources
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\obj\Release\algoritms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\obj\Release\algoritms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\obj\Release\algoritms.exe
+C:\Users\User\Desktop\работы\homework\Тестирование\Алгоритмы\algoritms\algoritms\obj\Release\algoritms.pdb
