@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\работы\\основы алгоритмизации и программирования\\упражнение5\\упражнение5\\упражнение5.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\работы\\homework\\Основы алгоритмизации и программирования\\упражнение5\\упражнение5\\упражнение5.csproj",
       "projectName": "упражнение5",
-      "projectPath": "C:\\Users\\User\\Desktop\\работы\\основы алгоритмизации и программирования\\упражнение5\\упражнение5\\упражнение5.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\работы\\homework\\Основы алгоритмизации и программирования\\упражнение5\\упражнение5\\упражнение5.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\работы\\основы алгоритмизации и программирования\\упражнение5\\упражнение5\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\работы\\homework\\Основы алгоритмизации и программирования\\упражнение5\\упражнение5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

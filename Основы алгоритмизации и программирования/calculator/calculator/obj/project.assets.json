@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\работы\\основы алгоритмизации и программирования\\calculator\\calculator\\calculator.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\работы\\homework\\Основы алгоритмизации и программирования\\calculator\\calculator\\calculator.csproj",
       "projectName": "calculator",
-      "projectPath": "C:\\Users\\User\\Desktop\\работы\\основы алгоритмизации и программирования\\calculator\\calculator\\calculator.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\работы\\homework\\Основы алгоритмизации и программирования\\calculator\\calculator\\calculator.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\работы\\основы алгоритмизации и программирования\\calculator\\calculator\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\работы\\homework\\Основы алгоритмизации и программирования\\calculator\\calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
