@@ -1,0 +1,25 @@
+﻿1CV8LOG(ver 2.0)
+e4c3a216-0cba-41bb-b03b-136807fe3416
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"фиса",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$Session$_.Finish",4},
+{4,"_$InfoBase$_.DBConfigUpdateStart",5},
+{4,"_$InfoBase$_.ExclusiveModeChange",6},
+{4,"_$InfoBase$_.PredefinedDataUpdate",7},
+{5,3d71a84f-65a5-40ea-b0ee-01dd5c91969b,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",8},
+{4,"_$Access$_.Access",9},
+{3,"1CV8C",2},
+{3,"WebSocket",3},
+{3,"BackgroundJob",4},
+{5,033e978e-d457-48fd-9202-d7341aea2172,"",2},
+{5,1bc1b13e-1d5d-414a-8d38-272af2542a2b,"",3},
+{5,1802be3c-0649-4167-bc87-2b6dec73d8e3,"",4},
+{5,5063286e-8278-4337-83a8-0d15ccfe4d42,"",5},
+{5,8c986508-7001-4e7c-852e-865eb895a1db,"",6}
