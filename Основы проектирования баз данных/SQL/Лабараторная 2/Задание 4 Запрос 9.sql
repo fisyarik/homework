@@ -1,0 +1,2 @@
+SELECT TOP 10 PERCENT *
+FROM Академики

@@ -1,0 +1,11 @@
+SELECT  
+	 	DAY(GETDATE()) AS День 
+	 	,MONTH(GETDATE()) AS Месяц 
+	 	,YEAR(GETDATE()) AS Год 
+	 	,DATEPART(HOUR, GETDATE()) AS Час 
+	 	,DATEPART(MINUTE, GETDATE()) AS Минута 
+	 	,DATEPART(SECOND, GETDATE()) AS Секунда 
+	 	,DATEPART(QUARTER, GETDATE()) AS Квартал 
+	 	,DATEPART(WEEK, GETDATE()) AS Неделя 
+	 	,DATEPART(DAYOFYEAR, GETDATE()) AS День_года 
+	 	,DATEPART(WEEKDAY, GETDATE()) AS День_недели 

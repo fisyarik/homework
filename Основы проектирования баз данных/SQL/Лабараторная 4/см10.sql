@@ -1,0 +1,1 @@
+SELECT DATEDIFF(MONTH, '2009-01-12', GETDATE()) AS ћес€цы_со_дн€_рождени€

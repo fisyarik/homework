@@ -1,0 +1,1 @@
+SELECT ROUND(ABS(POWER(SIN(PI()/2), 2) - COS(3*PI()/2)), 2) AS result;
