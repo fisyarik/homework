@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.Form1.resources
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.heart.resources
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.triangle.resources
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\User\Desktop\Forms\Forms\bin\Debug\Forms.exe
+C:\Users\User\Desktop\Forms\Forms\bin\Debug\Forms.pdb
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.exe
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.pdb
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.car.resources
+C:\Users\User\Desktop\Forms\Forms\obj\Debug\Forms.nForm.resources
