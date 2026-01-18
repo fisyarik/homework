@@ -3,3 +3,14 @@
 1 СЕМЕСТР
 
 1. [Таблица отлеживания багов](https://github.com/fisyarik/homework/blob/дисциплины/Тестирование/Таблица%20отслеживания%20багов.pdf)
+2. [Анализ рисков](https://github.com/fisyarik/homework/blob/дисциплины/Тестирование/Анализ%20рисков.pdf)
+3. [Алгоритмы](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Алгоритмы)
+    - [Отчет по 1 практической работе(Линейный и разветвляющийся)](https://github.com/fisyarik/homework/blob/дисциплины/Тестирование/Алгоритмы/Отчет_практическая%20работа%20№1.pdf)
+    - [Отчет по 2 практической работе(инсталлер)](https://github.com/fisyarik/homework/blob/дисциплины/Тестирование/Алгоритмы/Отчет_Практическая%20работа%20№2.pdf)
+    - [Сам проект](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Алгоритмы/algoritms)
+
+2 СЕМЕСТР
+
+1. Разработка Windows приложений на C# (1 лаба)
+    - [1-3 упражнения + сердце и машина](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/Forms)
+    - [4 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/MdiApplication)
