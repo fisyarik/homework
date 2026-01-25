@@ -20,4 +20,4 @@
     - [3-4 упражнения](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/MdiApplication)
     - [5 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinContainer)
     - [6-7 упражнения](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinLinkLabel)
-    - [8-9 упражнение]()
+    - [8-9 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/RegistrationForm)
