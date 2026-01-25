@@ -74,6 +74,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -87,6 +88,36 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\сердечки.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\квадрат.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\звездочка.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_New.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Windows_Cascade.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Windows_Cascade1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Windows_Title.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_New1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Windows_Cascade2.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon_Windows_Title1.bmp" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
