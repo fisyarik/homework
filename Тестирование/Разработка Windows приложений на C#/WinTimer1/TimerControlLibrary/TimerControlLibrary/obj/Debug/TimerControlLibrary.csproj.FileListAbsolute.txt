@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\WinTimer1\TimerControlLibrary\TimerControlLibrary\obj\Debug\TimerControlLibrary.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\WinTimer1\TimerControlLibrary\TimerControlLibrary\obj\Debug\TimerControlLibrary.UserControl1.resources
+C:\Users\User\Desktop\WinTimer1\TimerControlLibrary\TimerControlLibrary\obj\Debug\TimerControlLibrary.csproj.GenerateResource.cache
+C:\Users\User\Desktop\WinTimer1\TimerControlLibrary\TimerControlLibrary\obj\Debug\TimerControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\WinTimer1\TimerControlLibrary\TimerControlLibrary\bin\Debug\TimerControlLibrary.dll
+C:\Users\User\Desktop\WinTimer1\TimerControlLibrary\TimerControlLibrary\bin\Debug\TimerControlLibrary.pdb
+C:\Users\User\Desktop\WinTimer1\TimerControlLibrary\TimerControlLibrary\obj\Debug\TimerControlLibrary.dll
+C:\Users\User\Desktop\WinTimer1\TimerControlLibrary\TimerControlLibrary\obj\Debug\TimerControlLibrary.pdb
