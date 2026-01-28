@@ -21,3 +21,8 @@
     - [5 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinContainer)
     - [6-7 упражнения](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinLinkLabel)
     - [8-9 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/RegistrationForm)
+
+3. Разработка Windows приложений на C# (3 лаба)
+    - [1 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinTimer1)
+    - [2 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinTimer2)
+    - [3 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinButNum)
