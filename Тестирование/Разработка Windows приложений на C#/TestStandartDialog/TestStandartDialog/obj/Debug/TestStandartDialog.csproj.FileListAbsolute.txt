@@ -1,0 +1,10 @@
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.AssemblyReference.cache
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
