@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.userControlTimer1 = new WinTimer1.UserControlTimer();
+            this.userControlTimer2 = new WinTimer1.UserControlTimer();
             this.SuspendLayout();
             // 
             // userControlTimer1
@@ -39,11 +40,20 @@
             this.userControlTimer1.TabIndex = 0;
             this.userControlTimer1.TimeEnabled = true;
             // 
+            // userControlTimer2
+            // 
+            this.userControlTimer2.Location = new System.Drawing.Point(44, 24);
+            this.userControlTimer2.Name = "userControlTimer2";
+            this.userControlTimer2.Size = new System.Drawing.Size(283, 141);
+            this.userControlTimer2.TabIndex = 1;
+            this.userControlTimer2.TimeEnabled = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(388, 216);
+            this.Controls.Add(this.userControlTimer2);
             this.Controls.Add(this.userControlTimer1);
             this.Name = "Form1";
             this.Text = "Form1";
@@ -54,6 +64,7 @@
         #endregion
 
         private UserControlTimer userControlTimer1;
+        private UserControlTimer userControlTimer2;
     }
 }
 

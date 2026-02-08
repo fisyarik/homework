@@ -8,3 +8,13 @@ C:\Users\User\Desktop\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.Gener
 C:\Users\User\Desktop\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\WinQuestion\WinQuestion\obj\Debug\WinQuestion.exe
 C:\Users\User\Desktop\WinQuestion\WinQuestion\obj\Debug\WinQuestion.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe.config
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\bin\Debug\WinQuestion.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\bin\Debug\WinQuestion.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\obj\Debug\WinQuestion.Form1.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\obj\Debug\WinQuestion.Properties.Resources.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.GenerateResource.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\obj\Debug\WinQuestion.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\obj\Debug\WinQuestion.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinQuestion\WinQuestion\obj\Debug\WinQuestion.pdb

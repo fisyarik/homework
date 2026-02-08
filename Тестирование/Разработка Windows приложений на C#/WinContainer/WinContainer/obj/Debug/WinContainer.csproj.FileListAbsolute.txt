@@ -8,3 +8,13 @@ C:\Users\User\Desktop\WinContainer\WinContainer\bin\Debug\WinContainer.exe
 C:\Users\User\Desktop\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
 C:\Users\User\Desktop\WinContainer\WinContainer\obj\Debug\WinContainer.exe
 C:\Users\User\Desktop\WinContainer\WinContainer\obj\Debug\WinContainer.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\bin\Debug\WinContainer.exe.config
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\bin\Debug\WinContainer.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\bin\Debug\WinContainer.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.GenerateResource.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\obj\Debug\WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\obj\Debug\WinContainer.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinContainer\WinContainer\obj\Debug\WinContainer.pdb

@@ -9,3 +9,14 @@ C:\Users\User\Desktop\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.Ge
 C:\Users\User\Desktop\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.CoreCompileInputs.cache
 C:\Users\User\Desktop\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.exe
 C:\Users\User\Desktop\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.exe.config
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\bin\Debug\WinLinkLabel.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Form1.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Form2.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.Properties.Resources.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.GenerateResource.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinLinkLabel\WinLinkLabel\obj\Debug\WinLinkLabel.pdb

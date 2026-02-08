@@ -79,10 +79,16 @@
             // 
             this.peopleList.FormattingEnabled = true;
             this.peopleList.Items.AddRange(new object[] {
-            "Козлова ",
-            "Белов ",
-            "Перепелкина",
-            "Черная"});
+            "прелкина анджена",
+            "будлаева наташа",
+            "ПИ ГО РЕ ВА рина",
+            "козловалова сонько",
+            "белов грибочек",
+            "верОника",
+            "майонез регина",
+            "гудько ксения",
+            "да да я н",
+            "дочь прокурора"});
             this.peopleList.Location = new System.Drawing.Point(551, 48);
             this.peopleList.Name = "peopleList";
             this.peopleList.Size = new System.Drawing.Size(171, 28);

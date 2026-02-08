@@ -8,3 +8,13 @@ C:\D\homework\Тестирование\Разработка Windows прилож
 C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
 C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
 C:\D\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\TestStandartDialog\TestStandartDialog\obj\Debug\TestStandartDialog.pdb

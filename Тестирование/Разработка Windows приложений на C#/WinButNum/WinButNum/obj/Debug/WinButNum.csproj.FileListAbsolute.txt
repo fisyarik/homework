@@ -8,3 +8,13 @@ C:\Users\User\Desktop\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompile
 C:\Users\User\Desktop\WinButNum\WinButNum\obj\Debug\WinButNum.exe
 C:\Users\User\Desktop\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
 C:\Users\User\Desktop\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.GenerateResource.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\obj\Debug\WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\User\Desktop\homework\Тестирование\Разработка Windows приложений на C#\WinButNum\WinButNum\obj\Debug\WinButNum.pdb

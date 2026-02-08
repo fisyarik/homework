@@ -48,11 +48,11 @@
             this.button8 = new System.Windows.Forms.Button();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.tabPage5 = new System.Windows.Forms.TabPage();
             this.button9 = new System.Windows.Forms.Button();
+            this.tabPage5 = new System.Windows.Forms.TabPage();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.button10 = new System.Windows.Forms.Button();
             this.button11 = new System.Windows.Forms.Button();
+            this.button10 = new System.Windows.Forms.Button();
             this.button12 = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -164,7 +164,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(31, 203);
+            this.button4.Location = new System.Drawing.Point(17, 365);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(104, 41);
             this.button4.TabIndex = 3;
@@ -283,16 +283,6 @@
             this.tableLayoutPanel1.Size = new System.Drawing.Size(348, 237);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
-            // tabPage5
-            // 
-            this.tabPage5.Controls.Add(this.splitContainer1);
-            this.tabPage5.Location = new System.Drawing.Point(4, 29);
-            this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(792, 417);
-            this.tabPage5.TabIndex = 4;
-            this.tabPage5.Text = "SplitContainer";
-            this.tabPage5.UseVisualStyleBackColor = true;
-            // 
             // button9
             // 
             this.button9.Location = new System.Drawing.Point(5, 5);
@@ -302,6 +292,16 @@
             this.button9.Text = "button9";
             this.button9.UseVisualStyleBackColor = true;
             this.button9.Click += new System.EventHandler(this.button9_Click);
+            // 
+            // tabPage5
+            // 
+            this.tabPage5.Controls.Add(this.splitContainer1);
+            this.tabPage5.Location = new System.Drawing.Point(4, 29);
+            this.tabPage5.Name = "tabPage5";
+            this.tabPage5.Size = new System.Drawing.Size(792, 417);
+            this.tabPage5.TabIndex = 4;
+            this.tabPage5.Text = "SplitContainer";
+            this.tabPage5.UseVisualStyleBackColor = true;
             // 
             // splitContainer1
             // 
@@ -322,16 +322,6 @@
             this.splitContainer1.SplitterDistance = 264;
             this.splitContainer1.TabIndex = 0;
             // 
-            // button10
-            // 
-            this.button10.Location = new System.Drawing.Point(49, 42);
-            this.button10.Name = "button10";
-            this.button10.Size = new System.Drawing.Size(163, 34);
-            this.button10.TabIndex = 0;
-            this.button10.Text = "Fix/Unfix Panel1";
-            this.button10.UseVisualStyleBackColor = true;
-            this.button10.Click += new System.EventHandler(this.button10_Click);
-            // 
             // button11
             // 
             this.button11.Location = new System.Drawing.Point(49, 82);
@@ -341,6 +331,16 @@
             this.button11.Text = "Fix/Unfix Splitter";
             this.button11.UseVisualStyleBackColor = true;
             this.button11.Click += new System.EventHandler(this.button11_Click);
+            // 
+            // button10
+            // 
+            this.button10.Location = new System.Drawing.Point(49, 42);
+            this.button10.Name = "button10";
+            this.button10.Size = new System.Drawing.Size(163, 34);
+            this.button10.TabIndex = 0;
+            this.button10.Text = "Fix/Unfix Panel1";
+            this.button10.UseVisualStyleBackColor = true;
+            this.button10.Click += new System.EventHandler(this.button10_Click);
             // 
             // button12
             // 
