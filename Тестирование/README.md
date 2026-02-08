@@ -11,6 +11,8 @@
 
 2 СЕМЕСТР
 
+[ОТЧЕТ ПО РАЗРАБОТКЕ Windows приложений на C#](https://github.com/fisyarik/homework/blob/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/Отчет%20формы.pdf)
+
 1. Разработка Windows приложений на C# (1 лаба)
     - [1-3 упражнения + сердце и машина](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/Forms)
     - [4 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/MdiApplication)
@@ -26,3 +28,6 @@
     - [1 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinTimer1)
     - [2 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinTimer2)
     - [3 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinButNum)
+
+4. Разработка Windows приложений на C# (4 лаба)
+    - [1-4 упражненя ](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/TestStandartDialog)
