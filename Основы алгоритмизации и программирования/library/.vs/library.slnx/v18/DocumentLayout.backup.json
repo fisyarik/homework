@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B50D84F-DAD9-4D6A-A1F5-65946515BCE3}|library\\library.csproj|c:\\users\\user\\desktop\\homework\\\u043E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B50D84F-DAD9-4D6A-A1F5-65946515BCE3}|library\\library.csproj|solutionrelative:library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79843334-9854-432E-AC5E-1035DEF4CC1D}|MathLibb\\MathLibb.csproj|c:\\users\\user\\desktop\\homework\\\u043E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\mathlibb\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79843334-9854-432E-AC5E-1035DEF4CC1D}|MathLibb\\MathLibb.csproj|solutionrelative:mathlibb\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79843334-9854-432E-AC5E-1035DEF4CC1D}|MathLibb\\MathLibb.csproj|c:\\users\\user\\desktop\\homework\\\u043E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\mathlibb\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79843334-9854-432E-AC5E-1035DEF4CC1D}|MathLibb\\MathLibb.csproj|solutionrelative:mathlibb\\basic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18765D9A-2445-49E6-BB7D-AD4A45A3B0A8}|mylib\\mylib.csproj|c:\\users\\user\\desktop\\homework\\\u043E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\mylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18765D9A-2445-49E6-BB7D-AD4A45A3B0A8}|mylib\\mylib.csproj|solutionrelative:mylib\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\MathLibb\\Log.cs",
+              "RelativeDocumentMoniker": "MathLibb\\Log.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\MathLibb\\Log.cs",
+              "RelativeToolTip": "MathLibb\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:52:32.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basic.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\MathLibb\\Basic.cs",
+              "RelativeDocumentMoniker": "MathLibb\\Basic.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\MathLibb\\Basic.cs",
+              "RelativeToolTip": "MathLibb\\Basic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:18:09.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\mylib\\Class1.cs",
+              "RelativeDocumentMoniker": "mylib\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\mylib\\Class1.cs",
+              "RelativeToolTip": "mylib\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:14:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\library\\Program.cs",
+              "RelativeDocumentMoniker": "library\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\homework\\\u041E\u0441\u043D\u043E\u0432\u044B \u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u0438\u0437\u0430\u0446\u0438\u0438 \u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u044F\\library\\library\\Program.cs",
+              "RelativeToolTip": "library\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-08T20:10:56.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

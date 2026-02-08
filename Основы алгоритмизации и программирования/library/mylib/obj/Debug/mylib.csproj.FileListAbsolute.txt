@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\library\mylib\bin\Debug\mylib.dll
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\library\mylib\bin\Debug\mylib.pdb
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\library\mylib\obj\Debug\mylib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\library\mylib\obj\Debug\mylib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\library\mylib\obj\Debug\mylib.dll
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\library\mylib\obj\Debug\mylib.pdb
