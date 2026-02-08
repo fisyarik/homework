@@ -26,7 +26,9 @@
 
 2 СЕМЕСТР!!!
 
-5. [Задания по ООП](https://github.com/fisyarik/homework/tree/дисциплины/Основы%20алгоритмизации%20и%20программирования/Задания%20по%20ООП)
+1. [Задания по ООП](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/Задания%20по%20ООП/OOP/Program.cs)
    
-
-
+2. [Математическая библиотека](https://github.com/fisyarik/homework/tree/дисциплины/Основы%20алгоритмизации%20и%20программирования/library)
+   - [базовые действия](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/library/MathLibb/Basic.cs)
+   - [логические действия](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/library/MathLibb/Log.cs)
+   - [прграмма](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/library/library/Program.cs)

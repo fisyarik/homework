@@ -11,7 +11,7 @@
 
 2 СЕМЕСТР
 
-[ОТЧЕТ ПО РАЗРАБОТКЕ Windows приложений на C#](https://github.com/fisyarik/homework/blob/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/Отчет%20формы.pdf)
+[ОТЧЕТ ПО РАЗРАБОТКЕ Windows приложений на C#](https://disk.yandex.ru/i/1Dk3UyHrUJzS8w)
 
 1. Разработка Windows приложений на C# (1 лаба)
     - [1-3 упражнения + сердце и машина](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/Forms)
