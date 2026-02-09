@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u0412\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|c:\\users\\user\\desktop\\homework\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 c#\\mdiapplication\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|c:\\users\\user\\desktop\\\u0432\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0442\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0440\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 c#\\mdiapplication\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|solutionrelative:mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|C:\\Users\\User\\Desktop\\\u0412\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|solutionrelative:mdiapplication\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\mdiapplication\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|C:\\Users\\User\\Desktop\\\u0412\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\mdiapplication\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C130AD54-60EA-48C9-ACE0-EB1A52E17546}|MdiApplication\\MdiApplication.csproj|solutionrelative:mdiapplication\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ParentForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0412\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.Designer.cs",
               "RelativeDocumentMoniker": "MdiApplication\\ParentForm.Designer.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0412\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.Designer.cs",
               "RelativeToolTip": "MdiApplication\\ParentForm.Designer.cs",
               "ViewState": "AgIAAK8AAAAAAAAAAAAcwLYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ParentForm.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0412\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.cs",
               "RelativeDocumentMoniker": "MdiApplication\\ParentForm.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u0412\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.cs",
               "RelativeToolTip": "MdiApplication\\ParentForm.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAjwDoAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,10 +53,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u0412\u0441\u0435 \u0440\u0430\u0431\u043E\u0442\u044B\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.cs",
               "RelativeDocumentMoniker": "MdiApplication\\ParentForm.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "MdiApplication\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\homework\\\u0422\u0435\u0441\u0442\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\\u0420\u0430\u0437\u0440\u0430\u0431\u043E\u0442\u043A\u0430 Windows \u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u0439 \u043D\u0430 C#\\MdiApplication\\MdiApplication\\ParentForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-18T06:00:33.599Z"
             }

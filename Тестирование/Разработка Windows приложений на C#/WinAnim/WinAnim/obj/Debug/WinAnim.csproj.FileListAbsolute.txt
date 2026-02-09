@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\obj\Debug\WinAnim.Form1.resources
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\obj\Debug\WinAnim.Properties.Resources.resources
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\obj\Debug\WinAnim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\bin\Debug\WinAnim.exe.config
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\bin\Debug\WinAnim.exe
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\bin\Debug\WinAnim.pdb
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\obj\Debug\WinAnim.exe
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\WinAnim\WinAnim\obj\Debug\WinAnim.pdb
