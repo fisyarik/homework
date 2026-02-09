@@ -9,4 +9,4 @@
 
 2 СЕМЕСТР
 
-1. [GIT](https://github.com/fisyarik/homework/blob/дисциплины/Технология%20разработки%20ПО/git.pdfv)
+1. [GIT]()
