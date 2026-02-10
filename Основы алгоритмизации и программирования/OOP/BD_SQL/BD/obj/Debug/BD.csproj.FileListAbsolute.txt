@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\BD\BD\bin\Debug\BD.exe.config
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\BD\BD\bin\Debug\BD.exe
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\BD\BD\bin\Debug\BD.pdb
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\BD\BD\obj\Debug\BD.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\BD\BD\obj\Debug\BD.exe
+C:\Users\User\Desktop\Все работы\homework\Тестирование\Разработка Windows приложений на C#\BD\BD\obj\Debug\BD.pdb
