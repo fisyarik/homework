@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\inheritance\inheritance\bin\Debug\inheritance.exe.config
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\inheritance\inheritance\obj\Debug\inheritance.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\inheritance\inheritance\obj\Debug\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\inheritance\inheritance\obj\Debug\inheritance.exe
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\inheritance\inheritance\obj\Debug\inheritance.pdb

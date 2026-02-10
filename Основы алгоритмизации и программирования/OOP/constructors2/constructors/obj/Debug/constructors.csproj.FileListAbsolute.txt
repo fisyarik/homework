@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\constructors\constructors\bin\Debug\constructors.exe.config
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\constructors\constructors\bin\Debug\constructors.exe
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\constructors\constructors\bin\Debug\constructors.pdb
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\constructors\constructors\obj\Debug\constructors.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\constructors\constructors\obj\Debug\constructors.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\constructors\constructors\obj\Debug\constructors.exe
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\constructors\constructors\obj\Debug\constructors.pdb

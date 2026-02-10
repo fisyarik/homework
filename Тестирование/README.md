@@ -31,3 +31,7 @@
 
 4. Разработка Windows приложений на C# (4 лаба)
     - [1-4 упражненя ](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/TestStandartDialog)
+
+5. Разработка Windows приложений на C# (5 лаба)
+    - [1 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/PDF%20Reader)
+    - [2 упражнение](https://github.com/fisyarik/homework/tree/дисциплины/Тестирование/Разработка%20Windows%20приложений%20на%20C%23/WinAnim)

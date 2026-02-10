@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\propertisClass\propertisClass\bin\Debug\propertisClass.exe.config
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\propertisClass\propertisClass\bin\Debug\propertisClass.exe
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\propertisClass\propertisClass\bin\Debug\propertisClass.pdb
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\propertisClass\propertisClass\obj\Debug\propertisClass.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\propertisClass\propertisClass\obj\Debug\propertisClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\propertisClass\propertisClass\obj\Debug\propertisClass.exe
+C:\Users\User\Desktop\homework\Основы алгоритмизации и программирования\propertisClass\propertisClass\obj\Debug\propertisClass.pdb
