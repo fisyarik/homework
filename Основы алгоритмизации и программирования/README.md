@@ -27,8 +27,16 @@
 2 СЕМЕСТР!!!
 
 1. [Задания по ООП](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/Задания%20по%20ООП/OOP/Program.cs)
+
+      - [инкапсуляция](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP/encapsulation1/encapsulation/Program.cs)
+      - [конструкторы](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP/constructors2/constructors/Program.cs)
+      - [свойства классов](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP/propertisClass3/propertisClass/Program.cs)
+      - [нвследование](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP/inheritance4/inheritance/Program.cs)
+      - [полиморфизм](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP/polymorphism5/polymorphism/Program.cs)
    
 2. [Математическая библиотека](https://github.com/fisyarik/homework/tree/дисциплины/Основы%20алгоритмизации%20и%20программирования/library)
    - [базовые действия](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/library/MathLibb/Basic.cs)
    - [логические действия](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/library/MathLibb/Log.cs)
-   - [прграмма](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/library/library/Program.cs)
+   - [прoграмма](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/library/library/Program.cs)
+
+3. [Подключение к SQL](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP/BD_SQL/BD/Program.cs)
