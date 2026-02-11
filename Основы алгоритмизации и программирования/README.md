@@ -26,7 +26,7 @@
 
 2 СЕМЕСТР!!!
 
-1. [Задания по ООП](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/Задания%20по%20ООП/OOP/Program.cs)
+1. [Задания по ООП](https://github.com/fisyarik/homework/tree/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP)
 
       - [инкапсуляция](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP/encapsulation1/encapsulation/Program.cs)
       - [конструкторы](https://github.com/fisyarik/homework/blob/дисциплины/Основы%20алгоритмизации%20и%20программирования/OOP/constructors2/constructors/Program.cs)
