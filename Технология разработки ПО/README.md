@@ -11,7 +11,7 @@
 
 1. - [ отчет GIT](https://github.com/fisyarik/homework/blob/дисциплины/Технология%20разработки%20ПО/git%20.pdf)
 
-    - [глоссарий]()
+    - [глоссарий](https://github.com/fisyarik/homework/blob/дисциплины/Технология%20разработки%20ПО/глоссарий%20git.md)
 
 
 
