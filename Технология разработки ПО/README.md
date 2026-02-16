@@ -9,4 +9,9 @@
 
 2 СЕМЕСТР
 
-1. [GIT](https://github.com/fisyarik/homework/blob/дисциплины/Технология%20разработки%20ПО/git.pdf)
+1. - [ отчет GIT](https://github.com/fisyarik/homework/blob/дисциплины/Технология%20разработки%20ПО/git%20.pdf)
+
+    - [глоссарий]()
+
+
+
