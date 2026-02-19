@@ -1,4 +1,4 @@
 SELECT COUNT(*) AS КоличествоСтран
-FROM Страны
+FROM Страна
 WHERE Название LIKE '%ан'
   AND Название NOT LIKE '%стан';

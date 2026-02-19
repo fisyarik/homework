@@ -1,1 +1,1 @@
-TRUNCATE TABLE Лицеисты 
+TRUNCATE TABLE Лицеист

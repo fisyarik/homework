@@ -1,4 +1,3 @@
-
 CREATE TABLE Гимназисты (
     ID INT PRIMARY KEY IDENTITY(1,1),
     Фамилия NVARCHAR(50) NOT NULL,

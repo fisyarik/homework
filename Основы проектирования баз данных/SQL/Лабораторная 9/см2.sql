@@ -1,5 +1,5 @@
 
-CREATE TABLE Страны_Туринге (
+CREATE TABLE Страны_фисы (
     Код_страны CHAR(3) PRIMARY KEY,
     Название NVARCHAR(100) NOT NULL,
     Столица NVARCHAR(100),

@@ -1,4 +1,4 @@
 SELECT TOP 5 Название, Столица
-FROM Страны
+FROM Страна
 ORDER BY Площадь 
 DESC

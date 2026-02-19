@@ -1,6 +1,6 @@
 SELECT TOP 30 PERCENT 
 	 	*  
 FROM  
-	 	Академики 
+	 	Академик 
 ORDER BY  
 	 	Год_присвоения_звания

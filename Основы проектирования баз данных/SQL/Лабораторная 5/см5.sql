@@ -1,3 +1,3 @@
 SELECT COUNT(DISTINCT Континент) AS КоличествоКонтинентов
-FROM Страны
+FROM Страна
 WHERE Название LIKE 'Р%';

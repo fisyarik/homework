@@ -1,3 +1,3 @@
 SELECT Название
-FROM Страны
+FROM Страна
 WHERE Название NOT LIKE 'K%'

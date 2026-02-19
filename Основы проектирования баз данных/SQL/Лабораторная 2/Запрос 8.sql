@@ -1,6 +1,6 @@
 SELECT TOP 2 
 	 	*  
 FROM  
-	 	Академики 
+	 	Академик	
 ORDER BY  
 	 	ФИО ASC

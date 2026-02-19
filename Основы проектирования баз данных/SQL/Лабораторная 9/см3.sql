@@ -1,5 +1,5 @@
 
-CREATE TABLE Цветы_Туринге (
+CREATE TABLE Цветы_фисы (
     ID INT UNIQUE,
     Код_цветка INT IDENTITY(1,1) PRIMARY KEY,
     Название NVARCHAR(100) NOT NULL,

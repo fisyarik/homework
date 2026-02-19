@@ -1,4 +1,4 @@
 SELECT Название
-FROM Страны
+FROM Страна
 WHERE Столица IS NOT NULL
   AND Столица != '';

@@ -1,7 +1,7 @@
 SELECT  
 	 	*  
 FROM  
-	 	Академики 
+	 	Академик 
 ORDER BY  
 	 	ФИО 
 	 	OFFSET 2 ROWS 

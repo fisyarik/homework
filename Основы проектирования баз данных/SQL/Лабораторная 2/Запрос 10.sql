@@ -1,6 +1,6 @@
 SELECT TOP 4 WITH TIES 
 	 	*  
 FROM  
-	 	Академики 
+	 	Академик 
 ORDER BY  
 	 	Год_присвоения_звания 

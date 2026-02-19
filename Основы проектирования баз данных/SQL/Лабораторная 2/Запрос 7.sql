@@ -1,7 +1,7 @@
 SELECT  
 	 	*  
 FROM  
-	 	Академики 
+	 	Академик 
 ORDER BY  
 	 	Специализация DESC 
 ,ФИО ASC 

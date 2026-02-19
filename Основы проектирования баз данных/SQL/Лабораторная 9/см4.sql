@@ -1,5 +1,4 @@
-
-CREATE TABLE Животные_Туринге (
+CREATE TABLE Животные_фисы (
     ID INT UNIQUE,
     Код_животного INT IDENTITY(1,1) PRIMARY KEY,
     Вид NVARCHAR(100) NOT NULL,

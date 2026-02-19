@@ -1,10 +1,10 @@
 SELECT *
-FROM Страны
+FROM Страна
 WHERE
     Континент = 'Африка'
     AND EXISTS (
         SELECT 1
-        FROM Страны
+        FROM Страна
         WHERE
             Континент = 'Африка'
             AND Площадь > 2000000

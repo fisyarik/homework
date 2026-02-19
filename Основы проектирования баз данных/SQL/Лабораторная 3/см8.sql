@@ -1,5 +1,5 @@
 SELECT Название
-FROM Страны
+FROM Страна
 WHERE Название LIKE '_а%' OR
       Название LIKE '_о%' OR
       Название LIKE '_у%' OR
