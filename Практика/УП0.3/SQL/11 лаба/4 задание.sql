@@ -137,22 +137,24 @@ BEGIN
     SET @count = @count - 1
 END
 -- 12 самостоятельный запрос --
-
-DECLARE @word NVARCHAR(20) = 'Нижневартовск'
+DECLARE @word NVARCHAR(20) = N'Нижневартовск'
 DECLARE @len INT = LEN(@word)
 DECLARE @i INT = 1
+DECLARE @currentLetters NVARCHAR(MAX) = ''
 
--- Верхняя половина (убывающая)
 WHILE @i <= @len
 BEGIN
-    PRINT LEFT(@word, @len - @i + 1) + SPACE(2 * (@i - 1)) + RIGHT(REVERSE(@word), @len - @i + 1)
+    -- На каждой итерации добавляем следующую букву и пробел после неё
+    SET @currentLetters = @currentLetters + SUBSTRING(@word, @i, 1) + ' '
+    
+    -- Печатаем: (отступ слева для центрирования) + (накопленные буквы)
+    PRINT SPACE(@len - @i) + @currentLetters
+    
     SET @i = @i + 1
 END
 
--- Нижняя половина (возрастающая)
-SET @i = @len - 1
-WHILE @i >= 1
-BEGIN
-    PRINT LEFT(@word, @len - @i + 1) + SPACE(2 * (@i - 1)) + RIGHT(REVERSE(@word), @len - @i + 1)
-    SET @i = @i - 1
-END
+
+
+
+
+
