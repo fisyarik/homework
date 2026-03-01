@@ -43,3 +43,14 @@ where Country not like 'France'
 select ContactName
 from Customers
 where ContactName is not null and Address is null
+
+
+-- ЗАПРОСЫ С JOIN --
+
+-- 1 запрос --
+select *
+from Orders inner join Customers on Orders.CustomerID = Customers.CustomerID
+
+-- 2 запрос --
+select *
+from Orders left join Customers on Orders.CustomerID = Customers.CustomerID
