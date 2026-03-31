@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4EE4EC-FA0B-4D3B-A614-E244FB5EF5E5}|mvc2\\mvc2.csproj|d:\\homework\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0432\u0435\u0441\u043D\u0430\\10 - mvc\\mvc2\\mvc2\\controllers\\lab2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4EE4EC-FA0B-4D3B-A614-E244FB5EF5E5}|mvc2\\mvc2.csproj|solutionrelative:mvc2\\controllers\\lab2controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4EE4EC-FA0B-4D3B-A614-E244FB5EF5E5}|mvc2\\mvc2.csproj|d:\\homework\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0432\u0435\u0441\u043D\u0430\\10 - mvc\\mvc2\\mvc2\\views\\lab2\\persondetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4EE4EC-FA0B-4D3B-A614-E244FB5EF5E5}|mvc2\\mvc2.csproj|solutionrelative:mvc2\\views\\lab2\\persondetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4EE4EC-FA0B-4D3B-A614-E244FB5EF5E5}|mvc2\\mvc2.csproj|d:\\homework\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0432\u0435\u0441\u043D\u0430\\10 - mvc\\mvc2\\mvc2\\views\\lab2\\listofpeople.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D4EE4EC-FA0B-4D3B-A614-E244FB5EF5E5}|mvc2\\mvc2.csproj|solutionrelative:mvc2\\views\\lab2\\listofpeople.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4EE4EC-FA0B-4D3B-A614-E244FB5EF5E5}|mvc2\\mvc2.csproj|d:\\homework\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0432\u0435\u0441\u043D\u0430\\10 - mvc\\mvc2\\mvc2\\models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4EE4EC-FA0B-4D3B-A614-E244FB5EF5E5}|mvc2\\mvc2.csproj|solutionrelative:mvc2\\models\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListOfPeople.cshtml",
+              "DocumentMoniker": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\mvc2\\Views\\Lab2\\ListOfPeople.cshtml",
+              "RelativeDocumentMoniker": "mvc2\\Views\\Lab2\\ListOfPeople.cshtml",
+              "ToolTip": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\mvc2\\Views\\Lab2\\ListOfPeople.cshtml",
+              "RelativeToolTip": "mvc2\\Views\\Lab2\\ListOfPeople.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T21:55:12.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab2Controller.cs",
+              "DocumentMoniker": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\mvc2\\Controllers\\Lab2Controller.cs",
+              "RelativeDocumentMoniker": "mvc2\\Controllers\\Lab2Controller.cs",
+              "ToolTip": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\mvc2\\Controllers\\Lab2Controller.cs",
+              "RelativeToolTip": "mvc2\\Controllers\\Lab2Controller.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T21:53:54.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonDetails.cshtml",
+              "DocumentMoniker": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\mvc2\\Views\\Lab2\\PersonDetails.cshtml",
+              "RelativeDocumentMoniker": "mvc2\\Views\\Lab2\\PersonDetails.cshtml",
+              "ToolTip": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\mvc2\\Views\\Lab2\\PersonDetails.cshtml",
+              "RelativeToolTip": "mvc2\\Views\\Lab2\\PersonDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-28T22:16:38.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\mvc2\\Models\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "mvc2\\Models\\Entities\\Person.cs",
+              "ToolTip": "D:\\homework\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\\u0412\u0435\u0441\u043D\u0430\\10 - MVC\\mvc2\\mvc2\\Models\\Entities\\Person.cs",
+              "RelativeToolTip": "mvc2\\Models\\Entities\\Person.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T21:39:49.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
