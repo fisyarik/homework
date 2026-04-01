@@ -28,5 +28,7 @@ namespace mvc2.Models.Entities
         public virtual DbSet<Person> Person { get; set; }
         public virtual DbSet<Question> Question { get; set; }
         public virtual DbSet<Answer> Answer { get; set; }
+
+        public System.Data.Entity.DbSet<mvc2.Models.ViewModels.PersonVM> PersonVMs { get; set; }
     }
 }

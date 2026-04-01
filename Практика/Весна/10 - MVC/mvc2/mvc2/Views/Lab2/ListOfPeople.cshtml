@@ -6,6 +6,11 @@
 
 <h2>Список участников опроса</h2>
 
+<button type="button" class="btn btn-default" onclick="location.href='@Url.Action("CreatePerson", "Lab2")'">
+    <span class="glyphicon glyphicon-plus"></span> Добавить человека
+</button>
+
+
 <table class="table table-striped">
     <thead>
         <tr>
@@ -20,9 +25,11 @@
             <tr class="text-center">
                 <td>@person.LastName @person.FirstName @person.Patronymic</td>
                 <td>@person.Age</td>
-                <td>@Html.ActionLink("подробнее", "PersonDetails", "Lab2",
-                   new { PersonId = person.Id }, null)</td>
-            </tr>
-        }
+                <td>
+                    @Html.ActionLink("подробнее", "PersonDetails", "Lab2",
+               new { PersonId = person.Id }, null)
+            </td>
+        </tr>
+    }
     </tbody>
 </table>
